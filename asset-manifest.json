@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-chatbot-learning.github.io/static/css/main.9eea32e2.chunk.css",
+    "main.js": "/react-chatbot-learning.github.io/static/js/main.663b71ee.chunk.js",
+    "main.js.map": "/react-chatbot-learning.github.io/static/js/main.663b71ee.chunk.js.map",
+    "runtime-main.js": "/react-chatbot-learning.github.io/static/js/runtime-main.b7d65beb.js",
+    "runtime-main.js.map": "/react-chatbot-learning.github.io/static/js/runtime-main.b7d65beb.js.map",
+    "static/js/2.71a2a710.chunk.js": "/react-chatbot-learning.github.io/static/js/2.71a2a710.chunk.js",
+    "static/js/2.71a2a710.chunk.js.map": "/react-chatbot-learning.github.io/static/js/2.71a2a710.chunk.js.map",
+    "static/js/3.6142e1fe.chunk.js": "/react-chatbot-learning.github.io/static/js/3.6142e1fe.chunk.js",
+    "static/js/3.6142e1fe.chunk.js.map": "/react-chatbot-learning.github.io/static/js/3.6142e1fe.chunk.js.map",
+    "index.html": "/react-chatbot-learning.github.io/index.html",
+    "static/css/main.9eea32e2.chunk.css.map": "/react-chatbot-learning.github.io/static/css/main.9eea32e2.chunk.css.map",
+    "static/js/2.71a2a710.chunk.js.LICENSE.txt": "/react-chatbot-learning.github.io/static/js/2.71a2a710.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7d65beb.js",
+    "static/js/2.71a2a710.chunk.js",
+    "static/css/main.9eea32e2.chunk.css",
+    "static/js/main.663b71ee.chunk.js"
+  ]
+}
